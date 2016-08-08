@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".KeepWalkingListFragment" />
-        <activity android:name=".DialogKeepWalkingFragment"></activity>
+        <activity android:name=".DialogKeepWalkingFragment" />
+        <activity android:name=".KeepWalkingHolder"></activity>
     </application>
 
 </manifest>
